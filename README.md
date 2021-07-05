@@ -1,1 +1,1 @@
-# food_sales_predictions
+# item_sales_predictions
